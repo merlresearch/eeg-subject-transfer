@@ -1,0 +1,21 @@
+# Copyright (C) Mitsubishi Electric Research Labs (MERL) 2023
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+einops
+kaleido
+loguru
+matplotlib
+numpy
+pandas
+plotly
+pytorch-lightning==1.8.6
+scikit-learn
+tensorboard
+thu-rsvp-dataset
+torch_tb_profiler
+torch==1.12.0
+torchinfo
+torchmetrics==0.11.0
+torchvision
+tqdm
+wfdb
